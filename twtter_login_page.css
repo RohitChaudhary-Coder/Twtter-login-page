@@ -1,0 +1,22 @@
+.main-container{
+    width: 330px;
+    margin: auto;
+    margin-top: 32px;
+}
+.twitter-photo{
+    width: 50px;
+    display: flex;
+    align-items:left;
+}
+.form-control{
+    margin: 20px;
+    margin-left: 0px;
+}
+.button{
+   margin: 23pxs;
+    border-radius: 40%;
+}
+.Forgot-password{
+    text-align:center ;
+    margin-top: 20px;
+}
